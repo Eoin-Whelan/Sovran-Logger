@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
@@ -12,7 +12,7 @@
     <Company>Sovran Merch</Company>
     <Authors>Eoin Whelan</Authors>
     <Description>Proprietary logging function for Sovran Merch microservice. Communicates primarily with MongoDb for payload storage. Future release will allow for full microservice-based logging.</Description>
-    <Version>0.8.0</Version>
+    <Version>1.0.0</Version>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
 
