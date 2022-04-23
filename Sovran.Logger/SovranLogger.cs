@@ -22,7 +22,7 @@ namespace Sovran.Logger
         ///     
         /// 
         /// - <b>mongoDbConn</b>: MongoDb connection string. <br></br>
-        /// - <b>sqlConn</b>: 
+        /// - <b>sqlConn</b>: MySQL connection string.
         /// </summary>
         /// <param name="loggerName"></param>
         /// <param name="mongoDbConn"></param>
